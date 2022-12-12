@@ -42,3 +42,11 @@
     background-color: rgb(145, 107, 27);
 }
 
+footer{
+    /* center text and make the background red*/
+    text-align: center;
+    background: rgb(165, 114, 114);
+    /* put the footer on the bottom */
+    bottom: 0;
+    width: 100%;
+}

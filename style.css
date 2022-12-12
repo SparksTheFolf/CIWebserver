@@ -1,16 +1,50 @@
+body{
+    /* make the background black */
+    background: rgb(0, 0, 0);
+    /* make the text white */
+    color: rgb(255, 255, 255);
+    /* make the text Arial */
+    font: 20px Arial, sans-serif;
+}
+
 .home{
-    /* center text and make the background red*/
     text-align: center;
     background: rgb(165, 114, 114);
 }
 
-.main{
-    background: rgb(165, 114, 114);
+/* setup ransomware class */
+.ransomware{
     text-align: center;
+    background: rgb(51, 134, 116);
+    font: 20px Arial, sans-serif;
 }
 
-/* center everything in talkone */
-.talkone{
+.links{
     text-align: center;
-    background-color: darkolivegreen;
+    background: rgb(156, 13, 137);
+    font: 20px Times, sans-serif;
+    /*put each link on a new line*/
+    display: block;
+}
+
+
+
+.videos{
+    text-align: center;
+    background: rgb(165, 114, 114);
+    font: 20px Arial, sans-serif;
+}
+
+.ecotable{
+    /* center table */
+    table-layout: auto;
+}
+
+
+/* put the footer class on the footer and on the bottom */
+footer{
+    text-align: center;
+    background: rgb(165, 114, 114);
+    bottom: 0;
+    width: 100%;
 }
