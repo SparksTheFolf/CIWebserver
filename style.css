@@ -1,0 +1,16 @@
+.home{
+    /* center text and make the background red*/
+    text-align: center;
+    background: rgb(165, 114, 114);
+}
+
+.main{
+    background: rgb(165, 114, 114);
+    text-align: center;
+}
+
+/* center everything in talkone */
+.talkone{
+    text-align: center;
+    background-color: darkolivegreen;
+}

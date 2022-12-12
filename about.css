@@ -1,0 +1,44 @@
+
+.bar{
+    background: rgb(165, 114, 114);
+    text-align: center;
+    margin: 0px;
+}
+
+/* Number One */
+
+
+.colone{
+    text-align: center;
+    background-color: rgb(149, 173, 107);
+}
+
+.talkone{
+    text-align: center;
+    background-color: darkolivegreen;
+}
+
+.talkonetext{
+    text-align: center;
+    background-color: rgb(42, 133, 0);
+}
+
+
+/* Number Two */
+
+.talktwo{
+    text-align: center;
+    background-color: rgb(223, 165, 6);
+}
+
+.coltwo{
+    text-align: center;
+    background-color: rgb(134, 106, 14);
+}
+
+
+.talktwotext{
+    text-align: center;
+    background-color: rgb(145, 107, 27);
+}
+
